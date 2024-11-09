@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rzoogle skilled .NET developer with 8+ years of experience building web applications, desktops, and robust backends. Proficient in C#, React, and Blazor for crafting interactive UIs and powerful server-side solutions.
+- 👋 Hi, I’m @rzoogle skilled .NET developer with 10+ years of experience building web applications, desktops, and robust backends. Proficient in C#, React, and Blazor for crafting interactive UIs and powerful server-side solutions.
 - 👀 I’m looking to Contribute to innovative projects. Collaborate with passionate developers. Tackle challenging problems.
 - 🌱 I’m currently learning AI & Python & Go & Rust.. you name it.
 - 💞️ I’m looking to collaborate on projects that makes difference.
